@@ -5,6 +5,8 @@ node_modules
 .pnp.*
 
 .cursorignore
+.claude/issues/
+이미지 참고/
 
 # testing
 coverage
