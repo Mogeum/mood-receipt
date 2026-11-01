@@ -11,6 +11,7 @@ const receiptData = {
 const Receipt = () => {
   return (
     <div
+      lang="ko"
       style={{
         position: "relative",
         display: "inline-block",
@@ -188,7 +189,7 @@ const Receipt = () => {
             padding: "8px 0",
           }}
         >
-          "{receiptData.review}"
+          &quot;{receiptData.review}&quot;
         </p>
 
         {/* 구분선 */}
